@@ -62,17 +62,22 @@ Homework 5
 
 ### Task 1
 
-Usage: python sort.py <source_folder> <output_folder>
-Example of execution script: python sort.py source result
+Usage: `python sort.py <source_folder> <output_folder>`
 
-#### Screenshots
+Example of execution: `script: python sort.py source result`
 
+#### Example of execution result in log file (in screenshot)
 
+<img width="3840" height="2060" alt="image" src="https://github.com/user-attachments/assets/04425537-50fb-4cf7-b497-4530364675ef" />
 
+---
 
 ### Task 2
 
-Soucre used = My days and dreams by Edward Carpenter (https://www.gutenberg.org/ebooks/78612)
-URL in task = https://www.gutenberg.org/cache/epub/78612/pg78612.txt 
+**Soucre used** = **My days and dreams** by *Edward Carpenter* (https://www.gutenberg.org/ebooks/78612)
+
+***URL in task*** = https://www.gutenberg.org/cache/epub/78612/pg78612.txt 
 
 #### Example of execution (in screenshot)
+<img width="3840" height="2060" alt="task_02_screenshot" src="https://github.com/user-attachments/assets/d9545347-9dc7-4e4b-8c71-43a4da194d3f" />
+
