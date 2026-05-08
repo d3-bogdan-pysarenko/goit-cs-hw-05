@@ -80,4 +80,3 @@ Example of execution: `script: python sort.py source result`
 
 #### Example of execution (in screenshot)
 <img width="3840" height="2060" alt="task_02_screenshot" src="https://github.com/user-attachments/assets/d9545347-9dc7-4e4b-8c71-43a4da194d3f" />
-
